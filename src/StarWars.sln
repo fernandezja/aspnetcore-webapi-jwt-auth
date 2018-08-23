@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StarWars.Auth", "StarWars.Auth\StarWars.Auth.csproj", "{4CFC5EFE-8998-4E8D-906C-EE6DA62208A5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StarWars.Rebelds.Api", "StarWars.Rebelds.Api\StarWars.Rebelds.Api.csproj", "{5C9674F3-A07D-4B39-A3B6-935F4AFE2CBA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StarWars.Jedis.Api", "StarWars.Jedis.Api\StarWars.Jedis.Api.csproj", "{4C2B03CE-A627-44E7-9759-B1989FB8BE42}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CFC5EFE-8998-4E8D-906C-EE6DA62208A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CFC5EFE-8998-4E8D-906C-EE6DA62208A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CFC5EFE-8998-4E8D-906C-EE6DA62208A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CFC5EFE-8998-4E8D-906C-EE6DA62208A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C9674F3-A07D-4B39-A3B6-935F4AFE2CBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C9674F3-A07D-4B39-A3B6-935F4AFE2CBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C9674F3-A07D-4B39-A3B6-935F4AFE2CBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C9674F3-A07D-4B39-A3B6-935F4AFE2CBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C2B03CE-A627-44E7-9759-B1989FB8BE42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C2B03CE-A627-44E7-9759-B1989FB8BE42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C2B03CE-A627-44E7-9759-B1989FB8BE42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C2B03CE-A627-44E7-9759-B1989FB8BE42}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {736DBD66-62BF-4BD2-BAFE-B1B8700C2D9D}
+	EndGlobalSection
+EndGlobal
